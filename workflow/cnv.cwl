@@ -33,7 +33,7 @@ outputs:
 
   ADTEX_OUTCNV:
     type: File
-    format: fakeFileFormat
+    format: file://fakeFileFormat
     outputSource: adtex/output
 
 
